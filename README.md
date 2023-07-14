@@ -1,6 +1,3 @@
-# Notes-from-Practical-Machine-learning-in-computer-vision
-This repository contains my personal notes from the book "Practical Machine Learning for Computer Vision." 
-
 # Practical Machine Learning for Computer Vision Notes
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
